@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+pandas
+torch>=2.1
+pyranges
+pyfaidx
+kipoiseq
+openpyxl
+tangermeme
